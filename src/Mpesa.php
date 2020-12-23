@@ -7,7 +7,8 @@
  */
 namespace Safaricom\Mpesa;
 
-include_once("../vendor/autoload.php");
+// TODO This should only be included in test environments
+// include_once("../vendor/autoload.php");
 
 use Symfony\Component\Dotenv\Dotenv;
 
