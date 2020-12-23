@@ -1,6 +1,8 @@
 **Introduction**
 
 This package seeks to help php developers implement the various Mpesa APIs without much hustle. It is based on the REST API whose documentation is available on https://developer.safaricom.co.ke.
+
+**This package is a clone from [safaricom/mpesa-php-sdk](https://github.com/safaricom/mpesa-php-sdk). I was hoping to maintain it since there seems to be no activity there**
  
  **Installation using composer**<br>
  `composer require safaricom/mpesa`<br>
